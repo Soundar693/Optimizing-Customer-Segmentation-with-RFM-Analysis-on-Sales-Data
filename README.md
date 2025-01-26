@@ -10,7 +10,7 @@ Segmentation means dividing a large group of people (like customers) into smalle
   - Technographic Segmentation
   - Value-Based Segmentation
   - Needs-Based Segmentation
-### RFM Segmentation
+### RFM Segmentation.
   
 RFM stands for Recency, Frequency, and Monetary—a data-driven customer segmentation technique used to analyze and rank customers based on their purchasing behavior. Here’s a breakdown of the three components:
 
